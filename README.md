@@ -1,0 +1,1 @@
+This is a test of some features of the JOptionPane method.
